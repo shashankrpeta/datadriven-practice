@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wintry_badger_1676), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Door](./practice/sql/the-first-door) | SQL | Medium | 2026-10-19 |
 | [The Warm Edges](./practice/sql/the-warm-edges) | SQL | Medium | 2026-10-18 |
 
 <!-- datadriven:index:end -->

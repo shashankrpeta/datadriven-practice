@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wintry_badger_1676), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-30 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-10-30 |
 | [Who Stayed](./practice/sql/who-stayed) | SQL | Hard | 2026-10-29 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-10-29 |

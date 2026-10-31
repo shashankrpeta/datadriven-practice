@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wintry_badger_1676), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bargains and Budget-Busters](./practice/sql/bargains-and-budget-busters) | SQL | Hard | 2026-10-31 |
 | [Deduplicate the Stream](./practice/sql/deduplicate-the-stream) | SQL | Hard | 2026-10-31 |
 | [The Ninety-Day Comeback](./practice/sql/the-ninety-day-comeback) | SQL | Hard | 2026-10-31 |
 | [Power Users by Session Activity](./practice/sql/power-users-by-session-activity) | SQL | Medium | 2026-10-30 |

@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/wintry_badger_1676), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Org Chart in Numbers](./practice/sql/the-org-chart-in-numbers) | SQL | Hard | 2026-11-07 |
 | [The Freshest Record](./practice/sql/the-freshest-record) | SQL | Medium | 2026-11-06 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-11-05 |
 | [Campaign Conversion Window](./practice/sql/campaign-conversion-window) | SQL | Hard | 2026-10-31 |
